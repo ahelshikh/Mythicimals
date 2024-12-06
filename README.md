@@ -2,10 +2,10 @@
 
 Team Members:
 
-Ahmed Bahadeldin Elshikh
-Liam Gerard Elliott
-Muhammad Saad Khan
-Zhantore Borangali
+Ahmed Bahadeldin Elshikh,
+Liam Gerard Elliott,
+Muhammad Saad Khan,
+Zhantore Borangali,
 
 Description
 -----------
