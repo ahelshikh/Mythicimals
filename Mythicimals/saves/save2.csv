@@ -1,0 +1,15 @@
+timesLoaded,1
+playerBalance,500
+playerInventory,Carrot,Carrot,1,20,20
+playerInventory,Burger,Burger,0,50,40
+playerInventory,GoldenApple,Golden Apple,0,1000,90
+playerInventory,Blanket,Blanket,1,30,20
+playerInventory,Toy,Toy,0,60,40
+playerInventory,MagicFlower,Magic Flower,0,1000,80
+score,0
+petName,hh
+petSpecies,Dragon
+petHealth,200
+petHunger,150
+petEnergy,200
+petHappiness,100
